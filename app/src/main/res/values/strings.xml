@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EstructuraCasa</string>
+    <string name="label_columnas">Número de columnas: %1$d</string>
+    <string name="label_vigas">Número de vigas: %1$d</string>
+    <string name="label_cimentacion">Tipo de cimentación: %1$s</string>
+    <string name="error_numeros_invalidos">Los valores ingresados no son números válidos.</string>
+    <string name="error_inesperado">Ocurrió un error inesperado. Intenta de nuevo.</string>
+    <string name="error_valores_positivos">Todos los valores deben ser mayores que cero.</string>
+    <string name="error_campos_incompletos">Por favor, completa todos los campos.</string>
+</resources>
